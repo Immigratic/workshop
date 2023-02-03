@@ -13387,14 +13387,8 @@ a.theme-link:hover {
 .contact-us-float .copy-text-btn .fa-solid{
     font-size: 14px;
 }
-.contact-us-float{
-    
-}
-.contact-us-float{
-    
-}
-.contact-us-float{
-    
+.header {
+    background: #141c25 !important;
 }
 
 @media (min-width: 576px) {
